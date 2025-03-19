@@ -1,4 +1,4 @@
-echo "3berr2243-2025">>README.md
+echo "berr2243-2025">>README.md
 git add .
 git commit -m "Initial commit: Setup documentation"
 git branch -M main 
